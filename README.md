@@ -30,5 +30,8 @@ More info about dataset can be found here:
 
 ## Data Model
 <img src="Data_model_lucid.png"> 
+
+<img src="Data_model_lucid.png" alt="Image" width="500" height="520">
+
 Lucid link- https://lucid.app/lucidchart/e6e9ce72-e141-4510-876c-1883dee5e461/edit?viewport_loc=-285%2C-131%2C2291%2C1169%2C0_0&invitationId=inv_ec4f19d8-8080-4a43-b7a2-d90857aa1876
 
