@@ -5,7 +5,8 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img width="955" alt="architecture" src="https://github.com/Sharan0310/Uber_data_engineering-/assets/120735798/8e6a4f17-de20-4918-b747-06c08f017067”>
+<img width="955" alt="architecture" src="https://github.com/Sharan0310/Uber_data_engineering-/assets/120735798/148f676e-6c13-4dc3-bdd0-fce0def0a7aa">
+
 
 ## Technology Used
 - Programming Language - Python
